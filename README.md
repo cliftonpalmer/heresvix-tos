@@ -1,2 +1,3 @@
 # heresvix-tos
-Vix's TOS example
+
+This is where markdown for Vix's TOS is stored for an example of how cool Git is
